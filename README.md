@@ -1,8 +1,8 @@
 # 👋 Halo, saya Arfan Juliano!
 
-Selamat datang di profil GitHub saya!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+saya+Arfan+Juliano.;Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
 
-Saya lagi semangat belajar programming, khususnya di dunia web development dan backend. Semoga langkah kecil ini bisa jadi awal buat karier besar di dunia teknologi! 🚀
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
 
 ---
 
@@ -16,23 +16,24 @@ Saya lagi semangat belajar programming, khususnya di dunia web development dan b
 
 ## 🎯 Target Saya:
 - Mampu membuat website dan aplikasi dari awal sampai akhir
-- Belajar frontend & backend dan database
+- Belajar backend dan database
 - Siap kerja secara remote / freelance
 
 ---
 
 ## 
-- ✉️ Email: fnzy522
-- 📸 Instagram: [@arfan.juliano5729@gmail.com]
+- ✉️ Email: arfan.juliano5729@gmail.com
+- 📸 Instagram: [fnzy522]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+![Arfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfan198&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfan198&layout=compact&theme=tokyonight)
 
 ---
 
 > *"Belajar pelan-pelan asal konsisten, nanti juga jago!"* 💪
+
