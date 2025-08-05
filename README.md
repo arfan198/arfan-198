@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Hi,+I’m+Arfan+Juliano!&fontSize=40&fontAlign=center&fontColor=ffffff" />
+
 # 👋 Halo, saya Arfan Juliano!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+saya+Arfan+Juliano.;Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
@@ -6,11 +8,13 @@
 
 ---
 
-## 💻 Bahasa & Teknologi yang Lagi Saya Pelajari:
-- 🐘 PHP
-- 🐍 Python
-- 🌐 HTML & CSS
-- ⚡ JavaScript
+## 🛠️ Tools & Teknologi:
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -22,8 +26,9 @@
 ---
 
 ## 
-- ✉️ Email: arfan.juliano5729@gmail.com
-- 📸 Instagram: [fnzy522]
+- ✉️ Email: **arfan.juliano5729@gmail.com**
+- 📸 Instagram: [@fnzy522](https://instagram.com/fnzy522)
+- 📱 WhatsApp: [085123523608](https://wa.me/6285123523608)
 
 ---
 
@@ -36,4 +41,3 @@
 ---
 
 > *"Belajar pelan-pelan asal konsisten, nanti juga jago!"* 💪
-
