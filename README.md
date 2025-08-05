@@ -16,12 +16,12 @@ Saya lagi semangat belajar programming, khususnya di dunia web development dan b
 
 ## 🎯 Target Saya:
 - Mampu membuat website dan aplikasi dari awal sampai akhir
-- Belajar backend dan database
+- Belajar frontend & backend dan database
 - Siap kerja secara remote / freelance
 
 ---
 
-## 📫 Kontak Saya:xxxxxxxxxxxxx
+## 
 - ✉️ Email: fnzy522
 - 📸 Instagram: [@arfan.juliano5729@gmail.com]
 
